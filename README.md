@@ -4,10 +4,6 @@
 ```python
 from geometryDisplay import *
 
-# examples
-# draw(poly18)
-# draw(star)
-
 myPolygon = [
     (1,2),
     (2,2),
